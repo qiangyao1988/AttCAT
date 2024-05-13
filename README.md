@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td align="center"> 
-      <img src="assets/methods.pdf" alt="Image 1" style="width: 700px;"/> 
+      <img src="assets/methods.png" alt="Image 1" style="width: 700px;"/> 
       <br>
       <em style="font-size: 18px;">  <strong style="font-size: 18px;">Figure 1:</strong> A summary of the existing explanation methods and our methods.</em>
     </td>
